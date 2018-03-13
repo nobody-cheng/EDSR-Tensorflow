@@ -1,7 +1,7 @@
-# 先运行train进行训练,然后运行test
-# 暂时只能2倍处理图像
-# 背景有绿色及红色下会出现小方框
-# 个人使用
+#### 先运行train进行训练,然后运行test
+#### 暂时只能2倍处理图像
+#### 背景有绿色及红色下会出现小方框
+#### 个人使用
 
 # EDSR Tensorflow Implementation
 An implementation of [Enhanced Deep Residual Networks for Single Image Super-Resolution](https://arxiv.org/pdf/1707.02921.pdf) written in tensorflow.
